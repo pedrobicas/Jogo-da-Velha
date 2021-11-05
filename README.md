@@ -3,7 +3,7 @@
 <br>
 O adversário (computador) faz jogadas aleatórias, baseando-se nos espaços ainda não preenchidos.
 <br>
-Ou você pode jogar contra outro pessoa, onde uma sera o X e outra o O
+Ou você pode jogar contra outra pessoa, onde uma sera o X e outra o O
 
 ### Tabuleiro
 Quando for sua vez, digite o número correspondente à posição no tabuleiro para fazer sua jogada nela.
